@@ -54,10 +54,36 @@
   ![Django](https://img.shields.io/badge/Django%20-%23054020.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-%23F05033.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+<br>
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Contacto..!</b>
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/luis-veintimilla-85575a223" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: @luisveintimilla-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
 
 
+<li>
+<a href="juniorveinte@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail: @luis-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
